@@ -32,6 +32,8 @@ Popularity and relevance aren't determined manually, Instead, the engines craft 
 
 These algorithms are often comprised of hundreds of components. In the "search marketing" field, we often refer to them as "ranking factors".
 
+### How does ranking works?
+
 
 
 

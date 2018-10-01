@@ -24,3 +24,4 @@ All pages that currently display the non-preferred version of the URL in the ind
 2. Click the gear icon ![](https://lh3.googleusercontent.com/6iD_JcqCzlkeCEcs6mwEdck4AC1tqiFx7Jk6Ww_OtvL1bE4KMYN-PeXkMYNm1Q=w18), and then click **Site Settings**.
 3. In the **Preferred domain** section, select the option you want.
 
+### Vintcer doesn not support non www URL's.
